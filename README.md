@@ -14,6 +14,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&layout=compact&langs_count=7&theme=rose_pine"/>
 </div> -->
 
+<div align="center">
+  <a href="https://github.com/LeonardoZaramello">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&layout=compact&langs_count=7&theme=rose_pine"/>
+</div>
 
 
 <div align="center" style="display: inline_block"><br>
