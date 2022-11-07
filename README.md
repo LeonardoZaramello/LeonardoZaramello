@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on:  Getting a Job 😅
 
-🌱 I’m currently learning:  Studying C# and doing the usual with the MERN Stack.
+🌱 I’m currently learning:  C#.
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/leonardo-zaramello/" target="_blank"><img height="20" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
