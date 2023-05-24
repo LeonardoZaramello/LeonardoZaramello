@@ -16,11 +16,10 @@
 
 <div align="center">
   <a href="https://github.com/LeonardoZaramello">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&count_private=true&layout=compact&theme=rose_pine&include_all_commits=true"/>
 </div>
-
-
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
