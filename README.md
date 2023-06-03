@@ -8,15 +8,9 @@
 
 ##
 
-<!-- <div align="center">
-  <a href="https://github.com/LeonardoZaramello">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&layout=compact&langs_count=7&theme=rose_pine"/>
-</div> -->
-
 <div align="center">
   <a href="https://github.com/LeonardoZaramello">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZaramello&hide_rank=true&count_private=true&theme=rose_pine&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZaramello&count_private=true&layout=compact&theme=rose_pine&include_all_commits=true"/>
 </div>
   
@@ -28,6 +22,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
 
 
